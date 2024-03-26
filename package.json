@@ -1,6 +1,6 @@
 {
   "name": "ryangibbsas",
-  "version": "1.0.4",
+  "version": "1.1.5",
   "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
   "main": "index.js",
   "scripts": {
